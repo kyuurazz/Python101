@@ -1,4 +1,4 @@
-# Mmebuat set kosong
+# Membuat set kosong
 s = set()
 
 # Menambhakan Element ke dalam set
